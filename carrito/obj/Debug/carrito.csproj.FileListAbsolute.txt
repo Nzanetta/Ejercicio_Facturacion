@@ -1,0 +1,10 @@
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.Form1.resources
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\carrito\carrito\bin\Debug\carrito.exe.config
+C:\Users\Nicolas\source\repos\carrito\carrito\bin\Debug\carrito.exe
+C:\Users\Nicolas\source\repos\carrito\carrito\bin\Debug\carrito.pdb
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.exe
+C:\Users\Nicolas\source\repos\carrito\carrito\obj\Debug\carrito.pdb
